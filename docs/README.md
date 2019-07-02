@@ -3,8 +3,10 @@
     - [Install **source{d} CE**](./quickstart/2-install-sourced.md)
     - [Run **source{d} CE**](./quickstart/3-init-sourced.md)
     - [Explore Your Data](./quickstart/4-explore-sourced.md)
+    - [Next steps](./usage/README.md)
 
 ## Usage
+
 * [sourced Command Reference](./usage/commands.md)
 * [Multiple Datasets](./usage/multiple-datasets.md)
 * [SQL Examples](./usage/examples.md)
