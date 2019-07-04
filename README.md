@@ -58,7 +58,7 @@ To run it you only need:
 
 If you want more details of each step, you will find in the [**Quick Start Guide**](docs/quickstart/README.md) all the steps to get started with **source{d} CE**, from the installation of its dependencies to running SQL queries to inspect git repositories.
 
-If you want to know more about **source{d} CE**, you will find in the [next steps](docs/usage/README.md) section some useful resources for guiding your experience using this tool.
+If you want to know more about **source{d} CE**, in the [next steps](docs/usage/README.md) section you will find some useful resources for guiding your experience using this tool.
 
 If you have any problem running **source{d} CE** you can take a look at out [FAQ & Troubleshooting](docs/faq-troubleshooting.md) section, and our [source{d} Forum](https://forum.sourced.tech), where you can also ask for help when using **source{d} CE**. If you spotted a bug, or have a feature request, please [open an issue](https://github.com/src-d/sourced-ce/issues) to let us know abut it.
 
