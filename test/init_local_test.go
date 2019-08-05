@@ -41,7 +41,7 @@ func (s *InitLocalTestSuite) TestWithInvalidWorkdir() {
 	)
 }
 
-func (s *InitLocalTestSuite) TestChangeWorkdir() {
+func (s *InitLocalTestSuite) TestChWD() {
 	req := s.Require()
 
 	// TODO will need to change with https://github.com/src-d/sourced-ce/issues/144
